@@ -603,10 +603,6 @@ svg {
   background: #E03500;
 }
 
-.nav__menu-button.active:hover {
-  background: transparent;
-}
-
 .nav__menu .cls-1 {
   fill: #fff;
 }
